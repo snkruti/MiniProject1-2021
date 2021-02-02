@@ -5,3 +5,5 @@
 [GitFlow and Basic Definitions](/section-2.md) (snkruti)
 
 [Step by Step Tutorial](/section-3.md) (tarik588)
+
+Contributors: Kruti Narasu, Aman Hirpara, Tarik Amraoui
