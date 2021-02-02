@@ -31,6 +31,13 @@ Commit: Acts as a save button to track who made changes to what and where in you
 
 Merge: Usually done using a pull request, you can take changes that were made to a secondary branch and combine it to the original repository.
 
+Checkout: The git checkout command lets you navigate between the branches created by git branch.
+
+Push: A command used to upload local repository content to a remote repository.
+
+Pull: A command used to fethc and download repository content from a remote repository to a local repository.
+
+
 
 
 
