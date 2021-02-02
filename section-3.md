@@ -11,4 +11,12 @@ but it remains on your GitHub account.
 - This is one of the more important features of Git because it allows others to review your work and see the tasks/features you've completed.
 - With this could come merge conflicts. THis can be caused by competing line changes, where 2 or more individuals change the same line on the same file. This can be solved locally.
 
-- On the "Pull Request" list, it will show a "Resolve Conflicts" Tab. Once the conflict is resolved, mark as resolved. 
+- On the "Pull Request" list, it will show a "Resolve Conflicts" Tab. Once the conflict is resolved, mark as resolved.
+ 
+ #Adding Collaborators 
+ 1. To add a collaborator on a project or personal repo, you must...
+- Ask for the username of the collaborator 
+ 
+-Under your repository name, click Settings.
+ 
+ -Click "Manage Access" and invite the collaborator 
