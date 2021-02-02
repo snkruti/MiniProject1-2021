@@ -27,3 +27,10 @@ Fork: A copy of a repository in which a contributor can make changes of their ow
 
 Branch: It is a duplicate of the original repository which someone can make changes to without affecting the original repository.
 
+Commit: Acts as a save button to track who made changes to what and where in your repository.
+
+Merge: Usually done using a pull request, you can take changes that were made to a secondary branch and combine it to the original repository.
+
+
+
+
