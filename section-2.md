@@ -13,3 +13,6 @@ Feature branches make it easier for developers to collaborate on the same featur
 #### Staging Area:
 The develop branch is the staging area for the features that have been completed, but aren't released yet. When the next release is branched off of develop, it will automatically consist of all of the new stuff that has been finished.
 
+#### Emergency Fixes:
+
+Github supports hotfix branches which allows you to make any emergency changes, knowing that the hotfix will only contain your emergency fix. There’s no risk of accidentally merging in new development at the same time.
