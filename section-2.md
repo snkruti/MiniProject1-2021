@@ -37,7 +37,15 @@ Push: A command used to upload local repository content to a remote repository.
 
 Pull: A command used to fethc and download repository content from a remote repository to a local repository.
 
+Remote Add: Used to add a remote to a repo, which is a common repository that all team members use to exchange their changes.
 
+Remote Remove: Use this git remote command to remove a remote URL from your repository.
+
+Remote Show: Using the git remote show command will display information about the origin.
+
+Status: A status check lets you know if your commits meet the conditions set for the repository you're contributing to.
+
+Master Branch: The branch where all changes made eventually get merged back into.
 
 
 
