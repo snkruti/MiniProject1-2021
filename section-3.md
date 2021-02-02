@@ -1,5 +1,6 @@
 #Branching Tutorial 
 1. Branching is a very important concept in GitHub.
+This allows you to work with multiple people and efficiently/clearly check each others work, add features or complete tasks, and increase communication between collaborators. 
 #Forking vs Cloning
 2. There are differences between Forking and Cloning in Github.
 - When forking, a copy of the original repository is created 
