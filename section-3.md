@@ -6,3 +6,5 @@
 but it remains on your GitHub account.
 - Meanwhile, when cloning, the repository makes a copy and is stored onto your local machine.
 
+#Pull Request
+1. Creating a pull request allows you to let other collaborators know about changes that you've put on Git
